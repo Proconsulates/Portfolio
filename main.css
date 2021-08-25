@@ -627,6 +627,7 @@ textarea {
 /*start other slideshow*/
 
 .mySlides {display: none;}
+
 .mySlides > i {
   vertical-align: middle; 
   text-align: center;
@@ -688,8 +689,9 @@ textarea {
 #lineDrawing {
   position: absolute;
   left: 50%;
+  top: 40%;
+  transform: translateY(-40%);
   transform: translateX(-50%);
-  top: -200px;
 }
 
 .my-path {
