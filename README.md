@@ -1,6 +1,6 @@
 # Proconsulates' Portfolio
-> A little portfolio describing me, Proconsulates. You will find my interests, coding languages, ways to contact me, and more!
-> Check out what teh code does there: [https://proconsulates.netlify.app/](https://proconsulates.netlify.app/)
+> A little portfolio describing me, Proconsulates. You will find my interests, coding languages, ways to contact me, and more!<br/>
+> Check out what the code does there: [https://proconsulates.netlify.app/](https://proconsulates.netlify.app/)
 
 ## Technologies
 The technologies used to create this awesome site include:
